@@ -716,7 +716,7 @@
          animations. Note that this is only a default and will be overridden by a
          user-set value if toggled by settings so the "Transition animation scale" setting
          should also be hidden if intended to be permanent. -->
-    <item name="config_appTransitionAnimationDurationScaleDefault" format="float" type="dimen">0.8</item>
+    <item name="config_appTransitionAnimationDurationScaleDefault" format="float" type="dimen">0.5</item>
 
     <!-- User activity timeout: Minimum screen off timeout in milliseconds.
          Sets a lower bound for the {@link Settings.System#SCREEN_OFF_TIMEOUT} setting
