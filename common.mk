@@ -501,8 +501,8 @@ PRODUCT_PACKAGES += \
     libqdMetaData.system \
     libwfdaac_vendor
 
-PRODUCT_BOOT_JARS += \
-    WfdCommon
+#PRODUCT_BOOT_JARS += \
+#    WfdCommon
 
 # XiaomiDoze
 PRODUCT_PACKAGES += \
